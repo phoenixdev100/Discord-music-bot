@@ -2,8 +2,6 @@
 
 This bot is designed to play music in a Discord server
 
-<br>
-
 ## 💻phoenixdev100
 
 <br>
@@ -31,4 +29,4 @@ cd discord-music-bot
 - The server jar file should be renamed to server.jar
 - Add necessary details to config.txt
 - Finally, start the server and you are good to go.
-- <br>
+<br>
