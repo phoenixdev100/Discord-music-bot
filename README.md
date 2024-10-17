@@ -2,6 +2,8 @@
 
 This bot is designed to play music in a Discord server
 
+<br>
+
 ## 💻phoenixdev100
 
 <br>
